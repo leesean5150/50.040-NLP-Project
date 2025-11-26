@@ -1,1 +1,6 @@
 venv
+XNLI-1.0
+XNLI-MT-1.0
+__MACOSX
+.DS_Store
+best_model
